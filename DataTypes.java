@@ -5,5 +5,8 @@ public class DataTypes {
 
         int busTickets = passengerCount;
         System.out.println(busTickets);
+
+        passengerCount = 100;
+        System.out.println(passengerCount);
     }
 }
