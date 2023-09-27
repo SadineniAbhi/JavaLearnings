@@ -1,6 +1,5 @@
 public class UdemyChallenge3 {
     public static void main(String[] args){
-        double p = 0;
         int oneApplePrice = 1;
         int numOfCustomers = 0;
         int numOfApples = 500;

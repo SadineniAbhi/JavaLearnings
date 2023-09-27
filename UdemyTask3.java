@@ -3,7 +3,7 @@ public class UdemyTask3 {
     public static void main(String[] args){
 
         Scanner scan = new Scanner(System.in);
-        System.out.println("Enter Your deteails");
+        System.out.println("Enter Your details");
 
         String firstName = scan.nextLine();
         String lastName = scan.nextLine();
