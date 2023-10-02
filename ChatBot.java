@@ -28,5 +28,6 @@ public class ChatBot {
 
         //add new a line here.
         System.out.println(language+", that's great! Nice chatting with you "+userName+". I have to log off now. See ya!");
+        scan.close();
     }
 }
